@@ -1,11 +1,12 @@
-# Atelier Seaborn IoT
+# Atelier Scikit-learn
 
-Atelier sur Seaborn qui est une bibliothèque de visualisation de données en Python construite au-dessus de Matplotlib, sur l'analyse de données issues de capteurs IoT.
+Scikit-learn est l'une des bibliothèques Python les plus importantes pour le Machine Learning.
 
+Elle fournit des outils simples, rapides et efficaces permettant de créer des modèles d'Intelligence Artificielle sans avoir à développer les algorithmes soi-même.
 ## Structure
 
 ```
-atelier_seaborn_iot/
+atelier_scikit-learn_iot/
 │
 ├── data/
 ├── notebooks/
